@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1734
+
+vBugle will highligh possible security bugs in Java/C/PHP/C++/ASP source code, using the current Bugle list. To get the most recent bug list go to http://www.cipher.org.uk/index.php?p=projects/bugle.project . Very small at the moment but if you want to give more bug regexp submit them at the link above. 
+
+
